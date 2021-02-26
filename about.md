@@ -8,8 +8,11 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Martha Hernández Torres
+##### UPIITA-IPN
+Ingeniería en Biónica
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:marthah.t91@gmail.com)
+[email@domain.com](mailto:mhernandez1828@alumno.ipn.mx)
